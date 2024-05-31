@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.17"
+  },
+  "name": "todos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type":"module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "allahrakkha",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "cmd_calculator",
+  "version": "1.0.1",
+  "description": "command line simple calculator.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "cmd_calculator": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "allahrakkha",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "chalk": "^4.1.2",
+    "inquirer": "^9.2.16"
+  }
+}
